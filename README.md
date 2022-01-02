@@ -1,2 +1,2 @@
 # nlw-heat-discover
-nlw
+NLW
